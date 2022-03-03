@@ -1,0 +1,11 @@
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\project1\project1\bin\Debug\project1.exe.config
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\project1\project1\bin\Debug\project1.exe
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\project1\project1\bin\Debug\project1.pdb
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\project1\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\project1\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\project1\project1\obj\Debug\project1.Form1.resources
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\project1\project1\obj\Debug\project1.Properties.Resources.resources
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\project1\project1\obj\Debug\project1.csproj.GenerateResource.cache
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\project1\project1\obj\Debug\project1.exe
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\project1\project1\obj\Debug\project1.pdb
